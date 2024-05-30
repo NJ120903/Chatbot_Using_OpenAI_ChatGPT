@@ -1,4 +1,3 @@
-```markdown
 # OpenAI GPT-3 Chatbot
 
 This project is a simple chatbot that uses OpenAI's GPT-3 to generate responses to user input.
