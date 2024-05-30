@@ -7,8 +7,8 @@ This project is a simple chatbot that uses OpenAI's GPT-3 to generate responses 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/openai-gpt3-chatbot.git
-    cd openai-gpt3-chatbot
+    https://github.com/NJ120903/Chatbot_Using_OpenAI_ChatGPT.git
+    cd Chatbot_Using_OpenAI_ChatGPT
     ```
 
 2. **Create and activate a virtual environment (optional but recommended)**:
